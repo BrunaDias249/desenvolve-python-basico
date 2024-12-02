@@ -1,0 +1,4 @@
+O programa recebe um número do usuário, em seguida, o programa deve usar o número do usuário e subtrair por 1,
+multiplicando por 10, para encontrar o número 1 da resposta. 
+Após deverá subtrair 10 pelo número do usuário para encontrar o número 2.
+Fazendo uma equação onde 9 x número do usuário é igual a (número do usuário menos 1) multiplicado por 10 (10 menos número do usuário).
