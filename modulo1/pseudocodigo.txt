@@ -1,0 +1,12 @@
+Início
+
+LEIA NumeroDoUsuario
+
+Numero1 = (NumeroDoUsuario - 1) * 10
+Numero2 = (10 - NumeroDoUsuario)
+
+Resultado = Numero1 + Numero2
+
+Retorna Resultado
+
+Fim
